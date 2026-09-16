@@ -1,0 +1,11 @@
+h1{
+    color :blue;
+    text-align : center;
+}
+.texto-secundario{
+    color:green;
+    margin-left:20px;
+}
+#negrito{
+    text-decoration: underline;
+}
